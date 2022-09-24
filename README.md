@@ -1,4 +1,4 @@
-# Online Ressources for Crime Reporting and Investigation
+# Online Ressources Criminology
 
 A curated(to come) list of online ressources, cross-disciplines. 
 
